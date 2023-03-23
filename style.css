@@ -19,7 +19,7 @@ html {
 }
 
 body {
-    /* background: linear-gradient(#004853, #74b3a7), url(img/imagem.fundopagina.jpg); */
+    background: linear-gradient(#004853, #74b3a7), url(img/imagem.fundopagina.jpg);
     background-position: center center;
     background-size: cover;
     background-position-y: 0px;
